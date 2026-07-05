@@ -1,0 +1,22 @@
+# ── Arduino ──────────────────────────────────────────────
+*.hex
+*.elf
+build/
+.pio/
+.vscode/
+
+# ── C# / .NET (para quando a aplicação desktop for adicionada) ──
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# ── Sistema operacional ──────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editores ─────────────────────────────────────────────
+*.swp
+*~
